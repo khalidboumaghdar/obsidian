@@ -8,19 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "656fc4eab3865153",
+            "id": "6a35ee166aaf9848",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Flyin/Djistra algo.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
-            "id": "04f94a090f364558",
+            "id": "bf8ad7e189d2f3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RECAP/Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "6f1c4b94316535d2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -30,69 +66,9 @@
               "icon": "excalidraw-icon",
               "title": "Djistra algo"
             }
-          },
-          {
-            "id": "f4b508570a0df91f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "project_1/SaaS video podcast website.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SaaS video podcast website"
-            }
-          },
-          {
-            "id": "0b9fbe7c6a4592ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flyin/Flyin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Flyin"
-            }
-          },
-          {
-            "id": "6a35ee166aaf9848",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "push_swap/push_swap.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "push_swap"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,40 +231,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6a35ee166aaf9848",
+  "active": "6f1c4b94316535d2",
   "lastOpenFiles": [
-    "LeetCode/Drawing 2026-04-24 10.24.27.excalidraw.md",
+    "Flyin/Screenshot from 2026-04-19 19-08-42.png",
     "Flyin/Flyin.md",
-    "LeetCode",
     "Flyin/Djistra algo.md",
-    "Flyin.png",
-    "Pasted Image 20260422152448_101.png",
+    "Screenshot from 2026-04-18 11-38-30.png",
     "Pasted Image 20260422151037_911.png",
+    "Pasted Image 20260422152448_101.png",
+    "RECAP/Drawing 2026-05-01 09.48.09.excalidraw.md",
+    "RECAP/Untitled.md",
+    "Untitled 1.md",
+    "Drawing 2026-04-30 18.11.29.excalidraw.md",
+    "RECAP",
+    "bs_token/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.md",
+    "delevermatch/git code.md",
+    "delevermatch/Untitled",
+    "delevermatch",
+    "Flyin.png",
+    "LeetCode/Drawing 2026-04-24 10.24.27.excalidraw.md",
+    "push_swap/push_swap.md",
     "project_1/spring boot/explain spring boot.md",
     "project_1/SaaS video podcast website.md",
-    "project_1/spring boot",
-    "Flyin/Screenshot from 2026-04-19 19-08-42.png",
-    "push_swap/push_swap.md",
-    "push_swap",
+    "Excalidraw/Drawing 2026-04-19 15.39.15.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-20 10.59.23.excalidraw.md",
     "README.md",
+    "bs_token",
+    "Excalidraw/Drawing 2026-04-20 11.01.32.excalidraw.md",
+    "LeetCode",
+    "project_1/spring boot",
+    "push_swap",
     "project_1",
     "Flyin/Djistra algo.md~",
-    "Untitled.md",
     "Untitled.canvas",
     "2026-04-20.md",
     "Flyin/Untitled.md",
-    "Excalidraw/Drawing 2026-04-20 11.01.32.excalidraw.md",
     "Untitled.base",
-    "Untitled 1.base",
-    "Excalidraw/Drawing 2026-04-20 10.59.23.excalidraw.md",
     "git/git.md",
     "Step Parsing.md",
     "Untitled 1.canvas",
-    "Excalidraw/Drawing 2026-04-19 15.39.15.excalidraw.md",
-    "git",
-    "Excalidraw",
     "Flyin.md",
-    "Flyin",
     "Welcome.md"
   ]
 }

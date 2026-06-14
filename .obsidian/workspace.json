@@ -1,62 +1,14 @@
 {
   "main": {
-    "id": "2bea6ea6f27704bd",
+    "id": "65d57325cbbe2a5b",
     "type": "split",
     "children": [
       {
-        "id": "24e415e2ca3e7df1",
+        "id": "a3430caec025ad93",
         "type": "tabs",
         "children": [
           {
-            "id": "6a35ee166aaf9848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "bf8ad7e189d2f3c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RECAP/Untitled.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "6f1c4b94316535d2",
+            "id": "db71c344e2c01e5d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -67,22 +19,21 @@
               "title": "Djistra algo"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1be7d313c0c43532",
+    "id": "da76e27a70e369d5",
     "type": "split",
     "children": [
       {
-        "id": "a06733888950bf7f",
+        "id": "419a441796456de7",
         "type": "tabs",
         "children": [
           {
-            "id": "b257bab708526413",
+            "id": "84eb91152ea6e3be",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -95,7 +46,7 @@
             }
           },
           {
-            "id": "9da7e9ec2b77dff3",
+            "id": "9da0314ded37c74e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -112,7 +63,7 @@
             }
           },
           {
-            "id": "db0df236f4fbeabf",
+            "id": "d5d589fe29bffe41",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -128,15 +79,15 @@
     "width": 300
   },
   "right": {
-    "id": "1c9071c5bd24bbfb",
+    "id": "a71b75a1cb9fc356",
     "type": "split",
     "children": [
       {
-        "id": "4a8e4dea60d83bb8",
+        "id": "a5797f255fa66ea2",
         "type": "tabs",
         "children": [
           {
-            "id": "c8ebfe3652ca8b67",
+            "id": "679909b990dc4ccc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -148,28 +99,28 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Djistra algo"
             }
           },
           {
-            "id": "9c3f10433a4b0d1f",
+            "id": "5fdead5f3231cb81",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Flyin/Djistra algo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Djistra algo"
             }
           },
           {
-            "id": "2d84773a41e32694",
+            "id": "9810ee61825e5907",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,7 +135,7 @@
             }
           },
           {
-            "id": "818b4f2f488fa617",
+            "id": "b63bcfd7d785806c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -198,18 +149,18 @@
             }
           },
           {
-            "id": "60d4c6eb39fe58f0",
+            "id": "79951bcc5a414d7b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Flyin/Djistra algo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Djistra algo"
             }
           }
         ]
@@ -228,49 +179,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f1c4b94316535d2",
+  "active": "fb618eeff0b299f7",
   "lastOpenFiles": [
+    "test.md",
+    "Call_my_be/Drawing 2026-06-14 19.46.53.excalidraw.md",
+    "test",
+    "obsidian",
+    "Flyin/Djistra algo.md",
+    "Call_my_be",
+    "Pasted Image 20260422152448_101.png",
+    "Pasted Image 20260422151037_911.png",
+    "Flyin.png",
+    "Drawing 2026-04-30 18.11.29.excalidraw.md",
+    "Screenshot from 2026-04-18 11-38-30.png",
+    "README.md",
     "Flyin/Screenshot from 2026-04-19 19-08-42.png",
     "Flyin/Flyin.md",
-    "Flyin/Djistra algo.md",
-    "Screenshot from 2026-04-18 11-38-30.png",
-    "Pasted Image 20260422151037_911.png",
-    "Pasted Image 20260422152448_101.png",
-    "RECAP/Drawing 2026-05-01 09.48.09.excalidraw.md",
-    "RECAP/Untitled.md",
-    "Untitled 1.md",
-    "Drawing 2026-04-30 18.11.29.excalidraw.md",
-    "RECAP",
-    "bs_token/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.md",
     "delevermatch/git code.md",
-    "delevermatch/Untitled",
-    "delevermatch",
-    "Flyin.png",
-    "LeetCode/Drawing 2026-04-24 10.24.27.excalidraw.md",
+    "bs_token/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.md",
+    "RECAP/Untitled.md",
+    "RECAP/Drawing 2026-05-01 09.48.09.excalidraw.md",
+    "RECAP",
     "push_swap/push_swap.md",
-    "project_1/spring boot/explain spring boot.md",
-    "project_1/SaaS video podcast website.md",
-    "Excalidraw/Drawing 2026-04-19 15.39.15.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-20 10.59.23.excalidraw.md",
-    "README.md",
-    "bs_token",
-    "Excalidraw/Drawing 2026-04-20 11.01.32.excalidraw.md",
-    "LeetCode",
-    "project_1/spring boot",
     "push_swap",
+    "project_1/spring boot/explain spring boot.md",
+    "project_1/spring boot",
+    "project_1/SaaS video podcast website.md",
     "project_1",
-    "Flyin/Djistra algo.md~",
-    "Untitled.canvas",
-    "2026-04-20.md",
-    "Flyin/Untitled.md",
-    "Untitled.base",
-    "git/git.md",
-    "Step Parsing.md",
-    "Untitled 1.canvas",
-    "Flyin.md",
-    "Welcome.md"
+    "LeetCode/Drawing 2026-04-24 10.24.27.excalidraw.md",
+    "LeetCode",
+    "Flyin",
+    "delevermatch",
+    "Welcome.md",
+    "obsidian/push_swap/push_swap.md",
+    "obsidian/project_1/spring boot/explain spring boot.md",
+    "obsidian/project_1/SaaS video podcast website.md",
+    "obsidian/delevermatch/git code.md",
+    "obsidian/bs_token/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.md",
+    "obsidian/Screenshot from 2026-04-18 11-38-30.png",
+    "obsidian/RECAP/Untitled.md",
+    "obsidian/RECAP/Drawing 2026-05-01 09.48.09.excalidraw.md",
+    "obsidian/README.md",
+    "obsidian/Pasted Image 20260422152448_101.png",
+    "obsidian/Pasted Image 20260422151037_911.png",
+    "obsidian/LeetCode/Drawing 2026-04-24 10.24.27.excalidraw.md",
+    "obsidian/Flyin/Screenshot from 2026-04-19 19-08-42.png",
+    "obsidian/Flyin/Flyin.md",
+    "obsidian/Flyin/Djistra algo.md",
+    "obsidian/Flyin.png",
+    "Untitled.canvas"
   ]
 }

@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Flyin/Djistra algo.md"
+                "file": "Call_my_be/Drawing 2026-06-14 19.46.53.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Djistra algo"
+              "title": "Drawing 2026-06-14 19.46.53.excalidraw"
+            }
+          },
+          {
+            "id": "a7844339d7617385",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "project_1/spring boot/explain spring boot.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "explain spring boot"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a71b75a1cb9fc356",
@@ -183,20 +197,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb618eeff0b299f7",
+  "active": "a7844339d7617385",
   "lastOpenFiles": [
-    "test.md",
+    "Pasted Image 20260712183711_277.png",
+    "Pasted Image 20260712183150_391.png",
+    "Flyin/Djistra algo.md",
+    "Codexion/Codexion_Explaine.md",
     "Call_my_be/Drawing 2026-06-14 19.46.53.excalidraw.md",
+    "Codexion",
+    "README.md",
+    "Screenshot from 2026-04-18 11-38-30.png",
+    "Flyin.png",
+    "Pasted Image 20260422151037_911.png",
+    "Drawing 2026-04-30 18.11.29.excalidraw.md",
+    "project_1/spring boot/explain spring boot.md",
+    "test.md",
     "test",
     "obsidian",
-    "Flyin/Djistra algo.md",
     "Call_my_be",
     "Pasted Image 20260422152448_101.png",
-    "Pasted Image 20260422151037_911.png",
-    "Flyin.png",
-    "Drawing 2026-04-30 18.11.29.excalidraw.md",
-    "Screenshot from 2026-04-18 11-38-30.png",
-    "README.md",
     "Flyin/Screenshot from 2026-04-19 19-08-42.png",
     "Flyin/Flyin.md",
     "delevermatch/git code.md",
@@ -206,14 +225,12 @@
     "RECAP",
     "push_swap/push_swap.md",
     "push_swap",
-    "project_1/spring boot/explain spring boot.md",
     "project_1/spring boot",
     "project_1/SaaS video podcast website.md",
     "project_1",
     "LeetCode/Drawing 2026-04-24 10.24.27.excalidraw.md",
     "LeetCode",
     "Flyin",
-    "delevermatch",
     "Welcome.md",
     "obsidian/push_swap/push_swap.md",
     "obsidian/project_1/spring boot/explain spring boot.md",
@@ -228,9 +245,6 @@
     "obsidian/Pasted Image 20260422151037_911.png",
     "obsidian/LeetCode/Drawing 2026-04-24 10.24.27.excalidraw.md",
     "obsidian/Flyin/Screenshot from 2026-04-19 19-08-42.png",
-    "obsidian/Flyin/Flyin.md",
-    "obsidian/Flyin/Djistra algo.md",
-    "obsidian/Flyin.png",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,3 @@
+# obsidian
+
+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
